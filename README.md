@@ -84,3 +84,8 @@ Create a `.env` file in the root directory and add necessary environment variabl
    NEXT_PUBLIC_DEMO_AFTER_VIDEO=/videos/after.mov 
    ```
 
+Create a `.env.local` file in the root directory and add necessary environment variables:
+   ```sh
+   NEXT_PUBLIC_API_URL=http://localhost:3000/api
+   ```
+
