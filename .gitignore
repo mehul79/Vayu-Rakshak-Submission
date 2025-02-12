@@ -1,0 +1,43 @@
+# Next.js
+.next
+out
+.next/cache
+
+# Node.js
+node_modules
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+.env.development
+.env.test
+.env.production
+
+# Build directory
+dist
+build
+
+
+
+
+# Virtual Environment
+hackfiesta/
+pkg_dir
+venv/
+ENV/
+env/
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System Files
+.DS_Store
+Thumbs.db
