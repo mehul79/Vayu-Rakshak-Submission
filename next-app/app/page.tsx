@@ -140,7 +140,7 @@ export default function Home() {
               <div className="relative aspect-video rounded-xl overflow-hidden">
                 <iframe
                   className="absolute inset-0 w-full h-full"
-                  src="https://www.youtube.com/embed/tPZauAYgVRQ?si=5xWYJaH-WNK9wGLQ"
+                  src="https://www.youtube.com/embed/NCuQvLvRU0Y?si=Q1gscS6CsrePIobf"
                   title="Ved Indicator Demo"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen
@@ -180,5 +180,6 @@ export default function Home() {
     </div>
   );
 }
+
 
 
