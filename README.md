@@ -28,12 +28,18 @@
      ```sh
      source hackfiesta/bin/activate
      ```
+   
+3. **Install the Requirements**:
+   - On Windows:
+      ```sh
+      pip install -r requirements.txt
+      ```
+   - On macOS/Linux:
+      ```sh
+      pip install -r requirements.txt
+      ```
 
-3. **Start the Backend Server**:
-   ```sh
-   python3 main.py
-   ```
-   or
+4. **Start the Backend Server**:
    ```sh
    python main.py
    ```
